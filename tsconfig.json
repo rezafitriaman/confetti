@@ -1,0 +1,14 @@
+{
+  "files": [
+    "src/ts/main.ts"
+  ],
+  "compilerOptions": {
+    "noImplicitAny": true,
+    "target": "es2015",
+    "experimentalDecorators": true,
+    "module": "commonjs",
+    "removeComments": true,
+    "sourceMap": true,
+    "types" : ["node"]
+  }
+}
